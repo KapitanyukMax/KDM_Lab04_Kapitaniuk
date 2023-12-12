@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KDM_Lab04_Kapitaniuk", "KDM_Lab04_Kapitaniuk\KDM_Lab04_Kapitaniuk.csproj", "{71419835-6654-428A-8ED1-E0315DB6FDB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrixes", "Matrixes\Matrixes.csproj", "{7CB467D8-8B26-4230-A164-02E408505454}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graphs", "Graphs\Graphs.csproj", "{28A3BEC7-1957-4663-8510-56BF1BC7F82D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Relations", "Relations\Relations.csproj", "{92F97A1E-9FFB-48A3-B56F-42296594919C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functions", "Functions\Functions.csproj", "{1AD59412-438D-46D7-B0A1-215881D62FE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoolFunctions", "BoolFunctions\BoolFunctions.csproj", "{E01D4478-055E-4B4E-8A5A-AA051D5B69CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySequences", "BinarySequences\BinarySequences.csproj", "{085861DE-E3A2-4313-A71A-CB00D0BEBD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71419835-6654-428A-8ED1-E0315DB6FDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71419835-6654-428A-8ED1-E0315DB6FDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71419835-6654-428A-8ED1-E0315DB6FDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71419835-6654-428A-8ED1-E0315DB6FDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB467D8-8B26-4230-A164-02E408505454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB467D8-8B26-4230-A164-02E408505454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB467D8-8B26-4230-A164-02E408505454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB467D8-8B26-4230-A164-02E408505454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A3BEC7-1957-4663-8510-56BF1BC7F82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A3BEC7-1957-4663-8510-56BF1BC7F82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A3BEC7-1957-4663-8510-56BF1BC7F82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A3BEC7-1957-4663-8510-56BF1BC7F82D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F97A1E-9FFB-48A3-B56F-42296594919C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F97A1E-9FFB-48A3-B56F-42296594919C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F97A1E-9FFB-48A3-B56F-42296594919C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F97A1E-9FFB-48A3-B56F-42296594919C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD59412-438D-46D7-B0A1-215881D62FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD59412-438D-46D7-B0A1-215881D62FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD59412-438D-46D7-B0A1-215881D62FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD59412-438D-46D7-B0A1-215881D62FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01D4478-055E-4B4E-8A5A-AA051D5B69CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01D4478-055E-4B4E-8A5A-AA051D5B69CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01D4478-055E-4B4E-8A5A-AA051D5B69CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01D4478-055E-4B4E-8A5A-AA051D5B69CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085861DE-E3A2-4313-A71A-CB00D0BEBD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085861DE-E3A2-4313-A71A-CB00D0BEBD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085861DE-E3A2-4313-A71A-CB00D0BEBD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085861DE-E3A2-4313-A71A-CB00D0BEBD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F3169E0-4EC5-4344-9BC4-42AC3D2BDBD5}
+	EndGlobalSection
+EndGlobal
